@@ -1,0 +1,3 @@
+Name: Kracken
+Age: 21
+Favorite Color: Black
